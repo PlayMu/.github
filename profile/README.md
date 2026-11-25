@@ -8,8 +8,8 @@
 # PlayMu
 
 ![Status](https://img.shields.io/badge/status-Active-red?style=plastic)
-[![License](https://img.shields.io/github/license/PlayMu/.github?style=plastic&color=red)](https://raw.githubusercontent.com/PlayMu/.github/main/LICENSE)
-[![Contributing](https://img.shields.io/badge/contributing-Closed-red?style=plastic)](https://raw.githubusercontent.com/PlayMu/.github/main/CONTRIBUTING.md)
+[![License](https://img.shields.io/github/license/PlayMu/.github?style=plastic&color=red)](https://github.com/PlayMu/.github/blob/main/LICENSE)
+[![Contributing](https://img.shields.io/badge/contributing-Closed-red?style=plastic)](https://github.com/PlayMu/.github/blob/main/CONTRIBUTING.md)
 
 Big Picture app for managing game emulators on macOS, Linux, and Windows.
 
@@ -17,13 +17,13 @@ Big Picture app for managing game emulators on macOS, Linux, and Windows.
 
 PlayMu are released under the AGPL-3.0.
 
-See the [LICENSE](https://raw.githubusercontent.com/PlayMu/.github/main/LICENSE) file for the complete license text.
+See the [LICENSE](https://github.com/PlayMu/.github/blob/main/LICENSE) file for the complete license text.
 
 ## 🤝 Contributing
 
 PlayMu is currently **not accepting external contributions**.
 
-See the [CONTRIBUTING](https://raw.githubusercontent.com/PlayMu/.github/main/CONTRIBUTING.md) file for the complete contributing text.
+See the [CONTRIBUTING](https://github.com/PlayMu/.github/blob/main/CONTRIBUTING.md) file for the complete contributing text.
 
 ## ✨ Getting started
 
